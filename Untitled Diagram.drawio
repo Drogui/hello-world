@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-04T17:36:53.729Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="6fZ5vLVfps-4SuL5S1BJ" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-04T17:46:16.737Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="4BFb6IPUpnU7YPmAXC3O" version="14.6.9" type="github">
   <diagram name="Aclaraciones" id="WpifIdnLGx_NhHcsi4cL">
     <mxGraphModel dx="3336" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="none" math="0" shadow="1">
       <root>
@@ -113,6 +113,12 @@
         </mxCell>
         <mxCell id="KDHZRwQ5EwGC6bNFkQ5K-0" value="SYS -CYBER" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.elastic_transcoder;fillColor=#f0a30a;aspect=fixed;strokeColor=#BD7000;labelBackgroundColor=none;fontFamily=Verdana;labelPosition=center;fontSize=12;" vertex="1" parent="WX7YUZVSeFiS0MbdlwwC-1">
           <mxGeometry x="-960" y="20" width="41.13" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KDHZRwQ5EwGC6bNFkQ5K-1" value="SYS- SWIFT" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.elastic_transcoder;fillColor=#f0a30a;aspect=fixed;strokeColor=#BD7000;labelBackgroundColor=none;fontFamily=Verdana;labelPosition=center;fontSize=12;" vertex="1" parent="WX7YUZVSeFiS0MbdlwwC-1">
+          <mxGeometry x="-110" y="730" width="41.13" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KDHZRwQ5EwGC6bNFkQ5K-2" value="SYS - E-TRANSFER" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.elastic_transcoder;fillColor=#f0a30a;aspect=fixed;strokeColor=#BD7000;labelBackgroundColor=none;fontFamily=Verdana;labelPosition=center;fontSize=12;" vertex="1" parent="WX7YUZVSeFiS0MbdlwwC-1">
+          <mxGeometry x="70" y="110" width="41.13" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
